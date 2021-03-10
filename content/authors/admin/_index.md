@@ -27,10 +27,10 @@ education:
   courses:
   - course: PhD in Theoretical Physics
     institution: Xiamen University
-    year: 2022
+    year: 2016-2022
   - course: BSc in Physics
     institution: Huaqiao University
-    year: 2016
+    year: 2012-2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
